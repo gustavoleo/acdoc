@@ -1,0 +1,944 @@
+Label,Label_XName,UniqueID
+ Cube Dimensions,,7df2e85a
+ Environment variable, Environment variable,8ab7d1a6
+ First parameter of the object-related scripts is always the object ID, First parameter of the object-related scripts is always the object ID,5c7aaf87
+&lt;&lt;,&lt;&lt;,818e5b6e
+"(use {CR}, {LF} and {t})",,5568a2df
+About,,4efca0d1
+Accept,Accept,89713b9c
+Actual filter,,7aaafbf8
+Add,Add,9fd728c6
+Add all columns to transformation,,77b5e75d
+Add calendar dimension,Add calendar dimension,9498ef0d
+Add calendar macro,Add calendar macro,0c71b3e0
+Add connector,,a6ef2483
+Add content,,006e1fbb
+Add dependent tables,Add dependent tables,d9a07191
+Add deployment,,6993e25f
+Add dimension,,a2879cac
+Add empty record,Add empty record,9194e4ec
+Add encrypted string,Add encrypted string,67eb982a
+Add export,,89229d04
+Add export package,,d2394cea
+Add external package,,9ef3ae01
+Add externally filled table,,04c47a44
+Add fact,,0382594b
+Add group,,94901258
+Add hierarchy,,18a36511
+Add historization,,136da52c
+Add historization package,,dc4aab3c
+Add import,,30880057
+Add import package,,c898499d
+Add index,,4650bda5
+Add macro,,a908eae9
+Add model,,b2609f7d
+Add object script,,74ea26c4
+Add or refresh primary hash keys,,28ace59c
+Add or refresh referenced hash keys,,65ffb82a
+Add partition,,94d13ca4
+Add persisting package,,b5c8f878
+Add post-creation script,,0402162d
+Add post-deployment script,,83bccf5b
+Add post-workflow script,,ef910553
+Add pre-creation script,,beb4e9c4
+Add pre-deployment script,,fbd00db9
+Add pre-workflow script,,dbd27480
+Add predefined transformation,,071bb75e
+Add reference,Add reference,e891f9e2
+Add repository extension script,,8115f85d
+Add role,,e53a9362
+Add schema,,d849e95c
+Add script package,,c03591c8
+Add snapshot,,af8e8c93
+Add snapshot dimension,Add snapshot dimension,a921dd1b
+Add snapshot group,,74f34d03
+Add source constraint,,bea118d5
+Add source references,,0bdc21ae
+Add star,,b80b8704
+Add stars,,988ec772
+Add time dimension,Add time dimension,c6c28c51
+Add to diagram filter,,9033f7f5
+Add to filter,Add to filter,c6b7266f
+Add to model,Add to model,b9b88272
+Add transformation,,ff988616
+Add vault hub,,3fcfa6cc
+Add vault link,,9c20e741
+Add vault satellite,,eb5e9e66
+Add workflow package,,f0fbfcde
+Add/refresh hash keys,Add/refresh hash keys,451e5144
+Additional properties for CSV files,Additional properties for CSV files,7ce8fdd4
+Additional properties for blob files,,1c881641
+Alias,,b19e02e9
+All N:1 direct related,All N:1 direct related,199aae03
+All N:1 related,All N:1 related,f6dd8fc0
+All additional tasks,,0e91e89f
+All connection stings stored as,,59d01efd
+All defaults,All defaults,10313df3
+All direct and indirect related,All direct and indirect related,22511cd0
+All direct related,All direct related,4615bdf2
+All fields,All fields,b2525b1e
+All key fields,All key fields,f2d3cda8
+All related,All related,d7d858a7
+Allow data loss,,cbb3af56
+Allow incompatible platform,,91eb6915
+Allow reading and writing of cube content,,f48eab43
+Allow reading of cell content,,310d76d5
+Allow using separate databases to store layers,,ee5cf283
+Allowed keywords,,f8824fbf
+AnalyticsCreator,,0c9e5dc6
+AnalyticsCreator Solutions GmbH,,3fd5ea0d
+Anonymization,,b72a4b9b
+Anonymization check statement,,311b1db9
+Anonymize,,03a84964
+Apply,Apply,31e392d1
+Apply filter,,d75f056b
+Arrow height,,700fcf2c
+Arrow width,,3b3b08e4
+Attributes,Attributes,4b0ed88f
+AutCreated,AutCreated,c86abf7c
+Authentication,Authentication,66880d2d
+Auto created,,f2f08bda
+Auto sync.,Auto sync.,aacde81e
+Auto-sync subscription,,c503369b
+Automatically created,Automatically created,6c49f79a
+Azure AD,Azure AD,8c061bef
+Azure key,Azure key,35d0521a
+Azure source type,,5c777de0
+Back,Back,76900f1b
+Background Color,,b48bc969
+Background arrow,,f8861012
+Background dimension,,a0dd25e4
+Background even column,,a1edb108
+Background external transformation,,12cd90b3
+Background fact,,7c5689af
+Background header,,ccd58c93
+Background odd column,,c5912b58
+Background other object,,d318ef4f
+Background package,,e6d6fcd4
+Background script transformation,,56d959c3
+Background source,,c51cfd76
+Background table,,dd8bc182
+Background text,,2a4de467
+Background vault hub,,47103069
+Background vault link,,dfb2a17e
+Background vault satellite,,2fd04f1f
+Background view,,0efb8898
+Backup DB before changes,,3648d5e6
+Backup and Restore,,d626ad8a
+Blob type,,613f724f
+Block when drift detected,,21bbeb39
+Border diagram,,da16f578
+Border object,,0d4ca0d0
+Border package,,ed985c7f
+Border table,,f05b2c66
+Border thickness,,306abbcd
+Calculated columns,Calculated columns,0ae8b721
+"Calculated columns. I - new record alias, S - old record alias. Sample: ISNULL(I.Value, 0) - ISNULL(S.Value, 0)",,9ba3b845
+Calendar dimension,Calendar dimension,b8d26c4d
+Calendar dimension name,,784588d5
+Calendar in fact names,Calendar in fact names,a2c44ea3
+Calendar in facts name,,fb275977
+Calendar period,,b6a41513
+Cancel,Cancel,19766ed6
+Cancel reference,Cancel reference,7c7a7c46
+Cardinality,Cardinality,23c088c9
+Cell height,,a4638d20
+Cell width,,7db4e5c4
+Change description,,3be1d2eb
+Check,,9d60841e
+Check and update columns,,d8649aab
+Check constraints,,86779395
+Check statement,,4dbed0a6
+Classic,Classic,ae25d648
+Close,Close,7d9eb7ac
+Code page,,714c9199
+Colors,Colors,88c45d9e
+Column Name,Column Name,186b1f01
+Column delimiter,,fb0581cf
+"Column delimiter (use {CR}, {LF} and {t})",,a8d8e398
+Column names first row,,0f43ede8
+Column to store next surrogate key,,6b5d6eb5
+Column to store previous surrogate key,,446af263
+Column to store root surrogate key,,abcb5495
+Column to store technical valid from date,,cdbfa57d
+Column to store technical valid to date,,83763cc6
+Column2,,b05d6851
+"Column_Name, Character_Maximum_Length, Numeric_Scale, Numeric_Precision, Is_Nullable, PK_Ordinal_Position, SrcType, hasLength, hasPrecision, hasScale, SrcSSISType, Anonymization_check_statement, Anonymize","Column_Name, Character_Maximum_Length, Numeric_Scale, Numeric_Precision, Is_Nullable, PK_Ordinal_Position, SrcType, hasLength, hasPrecision, hasScale, SrcSSISType, Anonymization_check_statement, Anonymize",35a40ffa
+Columns,Columns,53aade77
+Comma-separated,,bc77090e
+Command Timeout,,e6650461
+Community,,bb501d78
+Compability level,,87f9c4e3
+Company:,,a7aeec6f
+Compression Type,,e59db207
+Compression type,,e82afbde
+Configuration file,Configuration file,f1c216dd
+Connect,,1a2303ed
+Connection string,Connection string,511ada84
+Connection string to SSIS__Coniguration stored as,,9413f4b1
+Connector,Connector,8f0d706f
+Connector name,,da5facdd
+Connector type,,8a181445
+Connector1,Connector1,9d1df1a1
+ConnectorName,ConnectorName,b425c079
+Connectors,,c3d2e79e
+Constraints,Constraints,2b59190c
+Content,,47bd2907
+Continue,Continue,31fbef16
+Create Calendar dimension,,2f2c1bd8
+Create DACPAC,,365dea3e
+Create LinkSat,Create LinkSat,f4c3d147
+Create PowerPivot model,,e8affb8c
+Create Qlik script,,1e635b4a
+Create Snapshot dimension,,93d5581c
+Create Tableau model,,edee2da3
+Create Visio diagram,,ffca9de8
+Create Word description,,6d6c6ec4
+Create XMLA script,,9e9cf2f3
+Create cube during deployment,,825141dd
+Create in DWH,,17283daf
+Create model,Create model,990b6a16
+Create new source,,ebb361a8
+Create partitions,,7d804622
+Create perspectives,,d73de985
+Create transformation,,d8854e8a
+Create transformations,,571999ce
+Create unknown member,Create unknown member,a87ce5f8
+Cube Dimension,Cube Dimension,de458435
+Cubes,,a9ac015e
+Custom value,,aa2ff6fe
+Customize colors,,cd27f46c
+DACPAC Compability,,fb03a3cd
+DB Name,DB Name,4943ecc3
+DWH,DWH,cf78e5d5
+DWH Wizard,DWH Wizard,c740881e
+DWH database template,,a818db5a
+DWH settngs,,14375618
+DWH type,,8ad97fdc
+Data Type,,68cd1547
+Data mart,,f8367f56
+Data source,Data source,548c5b4d
+Data vault hash fields,Data vault hash fields,4d6f3602
+Data vault hub,Data vault hub,8075972f
+Data vault link,Data vault link,e5c0705e
+Data vault satellite,Data vault satellite,5d56c9f7
+DataVault 2.0,DataVault 2.0,40c33930
+DataVault2,,0037d7c6
+Database SQLCMD variable,Database SQLCMD variable,78f29d5f
+Database name,Database name,e97a0773
+Database to deploy and to use as a source in generated files,Database to deploy and to use as a source in generated files,546cc8e9
+Date from,,61df12fa
+Date to,,47805fb8
+Date-to-ID function,,83910618
+Decline,Decline,a2d285b3
+Decrypt,,2e462944
+Default,Default,21b111cb
+Default 1,Default 1,3b9bbb0d
+Default 2,Default 2,040066fe
+Default 3,Default 3,c2a2f282
+Default member,,5c73726c
+Default transformations,,78e09eec
+Default transformations:,,07ffbca6
+Default value,,e6fdffbb
+DefaultBufferMaxRows,,2c2d517d
+DefaultBufferSize,,67847903
+Definition,Definition,9813fafb
+Delete,Delete,e2d0a549
+Delete all,Delete all,97811183
+Delete column,,837dbb2c
+Delete connector,,0538f609
+Delete content,,091e817d
+Delete data warehause,,0d815954
+Delete deployment,,4e54c463
+Delete dimension,,95739fcf
+Delete export,,98ace36e
+Delete fact,,2f155b16
+Delete filter,,5fc8c270
+Delete future history if exists,,d898103c
+Delete galaxy,,b88dff65
+Delete group,,3f7374ac
+Delete hierarchy,,181f2430
+Delete historization,,c9693600
+Delete import,,81e9c9ee
+Delete index,,aef24434
+Delete layer,,65f21377
+Delete macro,,7cc0800f
+Delete missing columns in imported tables,,640c7d3e
+Delete missing sources,,65eb4a23
+Delete model,,b7828ba0
+Delete object script,,dad3bc69
+Delete package,,89462b49
+Delete parameter,,0f5d60cf
+Delete partition,,c122a05a
+Delete persisting,,b57a285f
+Delete predefined transformation,,317fb723
+Delete role,,ac18d11a
+Delete schema,,d58a8d6b
+Delete script,,110b5bef
+Delete snapshot,,ab50f27c
+Delete snapshot group,,a0418e9b
+Delete source,,26f41308
+Delete source constraint,,b2093519
+Delete source reference,,aa956b0d
+Delete star,,636e0b75
+Delete table,,c3405135
+Delete table reference,,b00c9665
+Delete transformation,,e68c7614
+DeltaQ,DeltaQ,e78da6d3
+Denied member set,,7482d2e8
+Dependencies,Dependencies,2e41b118
+Depends on,Depends on,fcb4dd84
+Deploy,,4c236daa
+Deploy DACPAC ,Deploy DACPAC ,2bb81856
+Deploy SSIS__Configurations,,e24a5f45
+Deploy in single user mode,,425d95b8
+Deployment,,870a8ffd
+Deployment log,,2f761736
+Deployment package,,d40dbb2f
+Description,Description,526e0087
+Detail page horizontal alignment,,1b85bf29
+Detail page max height,,e533d704
+Detail page max width,,72b846b6
+Detail page vertical alignment,,865f7f8c
+Detect deleted data&#10;Filter for historicized table&#10;Please use [S] alias like&#10;[S].[ModifyDate],,4c4f37e5
+Detect deleted data&#10;Filter for source table&#10;Please use [I] alias like&#10;[I].[ModifyDate],,ea07ad14
+Detect differences without to change repository,,ee13aaff
+Detect new and changed data&#10;Filter for historicized table&#10;Please use [S] alias like&#10;[S].[ModifyDate],,2bdd5ae4
+Detect new and changed data&#10;Filter for source table&#10;Please use [I] alias like&#10;[I].[ModifyDate],,69a09e78
+Diagram,Diagram,913c5e96
+Diagram filter,,47eb0f10
+Dimension,Dimension,0bc70684
+Dimension names,,7dc7631e
+Dimensions,,914182d5
+Direct source,Direct source,c1097e46
+Directory,,c8f84c3c
+DisplayFolder,,3d731d0b
+Do not close,Do not close,d6066d44
+Don't detect dependencies,,5f9231ae
+Don't inherit PK,,a8634cb3
+Drop objects not in source,,dea845ed
+Duplicate,Duplicate,02cdaabf
+Duplicate deployment,,1ff3ab68
+Duplicate role,,103cf318
+Duplicate transformation,,ad49e491
+ETL,,6cab6d27
+EULA,,98e4a4cc
+Edit column,,4fcbb3ef
+Edit connector,,4cb78a1b
+Edit dimension,,7692c690
+Edit export,,e01ed021
+Edit fact,,979c208f
+Edit galaxy,,b9bfc17d
+Edit group,,f24f78c7
+Edit hierarchy,,0aecfbfe
+Edit hierarchy columns,,eea990a7
+Edit historization,,deb179ee
+Edit import,,cdc9f023
+Edit index,,e1f991e0
+Edit index columns,,25004ebf
+Edit layer,,8c4e5e73
+Edit macro,,9b2cce74
+Edit model,,1733ca79
+Edit object script,,09c7ab20
+Edit package,,2df378ba
+Edit parameter,,7f4020a8
+Edit partition,,7180bb00
+Edit persisting,,2bbaa90e
+Edit predefined transformation,,e6d91158
+Edit role,,e2afdd4e
+Edit schema,,8acbc598
+Edit script,,9aed5d2f
+Edit snapshot,,5fce588c
+Edit snapshot group,,d8034d2c
+Edit source,,4314a941
+Edit source column,,81548f93
+Edit source columns,,0635a220
+Edit source constraint,,da402b14
+Edit source reference,,20425a99
+Edit star,,d7031079
+Edit table,,d0766b79
+Edit table reference,,178952fa
+Edit transformation,,3af72fbe
+Edit/Run deployment,,6e76fd66
+Empty record behaviour,,66e5978d
+Empty record field,,07fe0cd4
+Empty source,Empty source,54e2e3f7
+Encrypted strings,,45cd629c
+Environment variable,Environment variable,b86ad171
+Error message,Error message,a5dc35f1
+Evaluate,,966591fe
+Evaluated statement,,733cd771
+Exist in DWH,Exist in DWH,cfbbddde
+Export,Export,36648955
+Export connector to cloud,,c9df11b7
+Export connector to file,,eaf0d55c
+Export in Word,,d731e13b
+Export macro to cloud,,a3dd854e
+Export macro to file,,0311b537
+Export model to cloud,,7fcd325c
+Export model to file,,bb648f8e
+Export script to cloud,,42cd39fe
+Export script to file,,b4e81254
+Export to OLAP,Export to OLAP,a216f6fe
+Export to Visio,,85d73c27
+Export to cloud,Export to cloud,790cefe3
+Export to file,Export to file,2025bd88
+External launched,,a83958a6
+Externally filled table,Externally filled table,145f3986
+Externally launched,Externally launched,54ce15ca
+Extractor,Extractor,302733cd
+Fact names,,6dfcb2c5
+Fact table,Fact table,9d21a796
+Fact transformation,,657dfe83
+Facts and dimensions,,2c68269c
+Facts from star ,,53eb06cf
+Field names,,bb6250d7
+Field names appearance,Field names appearance,79f3a8fb
+Field[n],Field[n],7e9614f7
+Fields,Fields,616f48c1
+File,File,50009ce1
+File extension,,15489d71
+Fill columns,,fa7aaf55
+Filter,Filter,638e249f
+Filter Statement,Filter Statement,17669768
+Filter schema,Filter schema,68e4e463
+Filter table,,0b34d599
+Filters,Filters,546ebb8e
+Find next (F3),,a41dd88b
+Find on diagram,,e69154b3
+Find previous (Shift+F3),,9a980784
+Finish,Finish,a6c7a84b
+Finish reference,Finish reference,237bfeaa
+First Steps with AnalyticsCreator (in german),,64b0acd8
+Font size,,6d784d95
+Force inherit,Force inherit,53cb8a47
+Foreground Color,,88339d15
+Foreground arrow,,7573e225
+Foreground dimension,,ae117ca0
+Foreground even column,,cb63d7c8
+Foreground external transformation,,a9864186
+Foreground fact,,22ff8542
+Foreground header,,adaaef40
+Foreground odd column,,55e88bd6
+Foreground other object,,4a6ab6c3
+Foreground package,,39aa3a38
+Foreground script transformation,,05404325
+Foreground source,,e218453f
+Foreground table,,5916bb48
+Foreground text,,ee0f4723
+Foreground vault hub,,d6029223
+Foreground vault link,,4424cb00
+Foreground vault satellite,,d1096606
+Foreground view,,f51ee5ac
+Format,,2f343666
+FrameScale,,584276ee
+Friendly name,,d25d7b3e
+FriendlyName,,3b5cbb55
+Full,,008dacb6
+Full refresh,Full refresh,9322071a
+Full synchronize,Full synchronize,ea9c1dd8
+Galaxies,,7116ee4a
+Galaxy,,9b81c035
+Generate packages,,136eea6a
+Get CSV structure,Get CSV structure,d1689389
+Group,Group,34ca0e76
+Group members,Group members,dd0fd917
+Group name,,762ebb70
+HUB package name,,93346920
+HUB table name,,97a10e51
+HUB transformation name,,bed81d9a
+Has primary key,,5982acfc
+Hashkey field,,fb0f4624
+Having,,e0d77ad5
+Header font size,,d17fc496
+Header hight,,38b9c201
+"Header row delimiter (use {CR}, {LF} and {t})",,8def9354
+Header rows to skip,,929b2c9a
+Help,,b79cac92
+Hidden in OLAP,Hidden in OLAP,b5dab453
+Hierarchies,,2b487a26
+Hierarchy name,,c774a391
+Highlighted label,,45cf5af3
+Hist Table,Hist Table,b21fe1a1
+Hist Type,,94d8703e
+Hist of table,,5fbc50d4
+Hist package,,50eb368e
+Historicize,,47826d54
+Historicized,,9f8b4583
+Historicized tables,,9ece7d15
+Historiza- tions,,c0af7473
+Historization,Historization,d561f62b
+Historizing Package names,,c45b3840
+Historizing type,,a9d96263
+Home,,3a786953
+Hub name,,35b848b3
+Hub of table,,b0d37b7d
+Hub schema,,055365b3
+IDoc,IDoc,8ad0710a
+Icon size,,a86cafc7
+Identity column,,4aacc99d
+If you need personal support or training for using AnalyticsCreator,,e6492c11
+"If you rename columns in the manual transformation, please add the old and new names to this table.",,efa51101
+ImpSQL,,0afbd2a7
+Import,Import,2cff9baa
+Import Package names,,86cbab91
+Import connector from cloud,,5c55c7e5
+Import connector from file,,99a0e90e
+Import from cloud,Import from cloud,d02cbfcc
+Import from file,Import from file,15405f88
+Import macro from cloud,,8530b17e
+Import macro from file,,c3b130f2
+Import model from cloud,,b33ba6a5
+Import model from file,,16cb2895
+Import script from cloud,,7a67d17d
+Import script from file,,38ddb603
+Import tables,,f71ffd0f
+Import transformations,,2c419bac
+Import/Export definition,,f263318d
+Import/Export object definition,,86c7c08c
+Imports,,7df60b64
+Inactive,,ac7c949f
+Include,Include,7285576b
+Include subdirectories,,7fe3b250
+Include tables in facts,,715d64b8
+Increment,,c7b1c3c9
+Incremental column,Incremental column,7b97f634
+Index name,,e71f62a3
+Indexes,,90b901a3
+Inherit Description,Inherit Description,93cd1777
+Inherit Display Folder,,7ce88e8f
+Inherit DisplayFolder,,e9b4b29c
+Inherit FriendlyName,Inherit FriendlyName,1a3df493
+Inherit all references,,85b624e6
+Inherit primary key,,b80aea6c
+Inheritance,Inheritance,9f0c392f
+Integrated,Integrated,afe3d8a0
+Interface,,c26b3ed4
+Internet,,57e8a431
+Interrupt,Interrupt,b6252314
+Is clustered,,27a90d03
+Is columnstore,,de303c76
+Is in-memory table,Is in-memory table,f0f16530
+Is primary key,,c1f99dc0
+Is unique,,7c862e40
+IsAggr.,,5a20eb73
+Join,,fd30fe68
+Keep identity,,4c3a4db9
+Keep nulls,,825053f1
+Key field name,,62e94bef
+Key field names,,7fcd5dc5
+Key fields NULL to zero,,904f60df
+Keyword,,a668022a
+LINK package name,,645d2ecf
+LINK table name,,8454ed95
+LINK transformation name,,3e1a3b27
+LINKSAT table name,,51e2f061
+Language,,a4fe6526
+Layer variables,,70e6163e
+Layers,,0bcd66e6
+Leave,Leave,fc6e4a40
+Line color,,54a0f6df
+Line color thin,,68a8e7df
+Line space,,03eb864f
+Link,Link,a6a32dbc
+Link of table,,1d7deb57
+LinkSat name,,cf1847cf
+LinkSat package,,b575fe14
+List,,6f202f54
+List Parameters,,04e217e7
+List columns,,da07bf9e
+List connectors,,15addbe0
+List deployments,,678fb688
+List galaxies,,62c08668
+List groups,,46253657
+List hierarchies,,16c5d957
+List indexes,,f23f5368
+List macros,,f23d5feb
+List models,,908aa27d
+List object scripts,,b4aecf3f
+List objects,,857b0801
+List packages,,7fe2e14a
+List partitions,,83b30988
+List post-creation scripts,,b9d8869d
+List post-deployment scripts,,1be55cc4
+List post-workflow scripts,,fe6859ae
+List pre-creation scripts,,f26c89a2
+List pre-deployment scripts,,19989097
+List pre-workflow scripts,,ac4e33ed
+List predefined transformations,,9057cb88
+List references,List references,2f59663a
+List repository extension scripts,,81471b29
+List roles,,833a75e8
+List schemas,,fd124b83
+List snapshot groups,,344b6941
+List snapshots,,69d6aabe
+List source constraints,,76101c33
+List source references,,f0e0b685
+List sources,,97ed65f3
+List stars,,98826d25
+List tables,,d50be313
+List transformations,,fa23fec0
+Load field definitions from existing table,,ffa90363
+Load from cloud,,3c860c2d
+Load from file,,5ff54926
+Locale,,ca3dc612
+Locate in diagram,,0d7801d3
+Locate in tree,Locate in tree,7a2d7397
+Lock,,db44b8db
+Lock group,,82f854fa
+Lock object,Lock object,d4af0504
+Locked by,Locked by,2866ba10
+Locks,,8ecd1d82
+Log.Destination,Log.Destination,7c28018f
+Login,Login,9d6322c1
+Lower case,Lower case,ff5afa49
+MDX,,d434e4eb
+Macro name,,d976ea75
+Macros,,866dcd98
+Mail:,,5878473b
+Main,Main,eb814be3
+Main box height,,aaea7f48
+Main box width,,bace77de
+Main table,Main table,76b5a552
+Manual con. string,,a273dbe0
+Manual dependencies,Manual dependencies,5566431a
+Manually created,Manually created,600d3d55
+Match case,,61988011
+Max insert commit size,,f2e2fa27
+Measure name,Measure name,62497700
+Measures,Measures,aabaa8ff
+Minor connector line opacity (%),,5c7cf297
+Missing sources behaviour,Missing sources behaviour,ba40396d
+Mixed Classic/DataVault 2.0,Mixed Classic/DataVault 2.0,55a9a253
+Mode,Mode,5e23ec6a
+Model,,5e2c614c
+Model name,,a3c3370c
+Models,,d17d2d78
+Multidimensional,Multidimensional,f4551f01
+Multidimensional cube,Multidimensional cube,f4e04b6f
+N:1 direct and indirect related,N:1 direct and indirect related,2cac9e87
+N:1 direct related,N:1 direct related,7fe21699
+Name,Name,dcd1d522
+Navigation tree,Navigation tree,f66b6994
+New,New,18fdd549
+New connector,,f492a978
+New objects,,4b24b93d
+New transformation,,6035aa80
+Next,Next,1ff57a29
+Next surrogate key field,,4c5b1e9f
+No additional tasks,,932d9e04
+No changes,No changes,c699aa00
+No defaults,No defaults,8fbd89e2
+No partition switching,No partition switching,cd1fc36d
+No refresh,No refresh,93881894
+None,None,dc937b59
+Not inherit,Not inherit,1d3498dc
+Num of rows,,5a671bf4
+OLAP Category,OLAP Category,12fa0eb5
+OLAP perspective,OLAP perspective,e416241a
+Object,,62a6da87
+Object Group,,b4ae58ea
+Object ID,,f79ceb0b
+Object groups,Object groups,aae7a2e2
+Optional historization fields. Can be redefined for every historization ,,5008f719
+Options,Options,d0db8b5e
+Order in diagram,,b8b2963d
+Original,Original,88d759ea
+Other,Other,f97e9da0
+PK clustered,,386be554
+PK pos,,06714ab6
+Package,Package,59de121d
+Package compability level,,4c3ead0a
+Package name,,b0b9e734
+Package parameter,Package parameter,682d713b
+Package type,,da0bbf9f
+Packages,,40a20853
+Pages,Pages,9046da16
+ParamNr,ParamNr,14cb39ee
+Parameter,,dd066ec1
+Parameters,,e68b36b1
+ParentDescription,,af15c39e
+Parsed,Parsed,c254a279
+Parsed Statement Multidimensional,,fe6a2d00
+Partition name,,c9585d2e
+Partition switching,Partition switching,573b7dd3
+Partitions,,75c2f149
+Password,Password,e7cf3ef4
+Path,Path,62fa5a5b
+Path to store AnalyticsCreator files,,3126224c
+Paths,Paths,9c7995b5
+Patterns,Patterns,160a13d9
+Period (minutes),,3efe13f5
+Persist of table,,d6a5311e
+Persist package,Persist package,e0dbfb9d
+Persist source,,036c2ec3
+Persist table,Persist table,68bb8e69
+Persist transformation,Persist transformation,c9a28456
+PersistPackage,PersistPackage,98dfe5f3
+PersistTable,PersistTable,24be8fff
+Persisted,,cc905d20
+Persisting,Persisting,a4c1503d
+Phone:,,3305eb58
+PostScript,,4759550c
+PreScript,,56126c78
+Predefined trans.,,687ab770
+Predefined transformations,,0c9d3789
+Preview data,Preview data,d526f2ae
+Previous surrogate key field,,c8a97d83
+Primary key name,,25501e29
+Procedure,Procedure,9c280284
+Process cube in workflow package,,27ff787b
+Process database,Process database,cddb8e2e
+Process files in directory,Process files in directory,191e8af4
+Program:,,c47b0d11
+Project parameter,Project parameter,0330305d
+Project reference (use with Integration service catalog),,dc6691e6
+Proxy address,,dba97df7
+Proxy password,,3978a115
+Proxy port,,cec8ad21
+Proxy settings,Proxy settings,4529dd70
+Proxy user,,2c9a8598
+Query,Query,b80a3756
+Query name,,29bf2fe6
+Query schema,Query schema,412d5c19
+Quick Sync DWH,Quick Sync DWH,555dbc51
+RFC Destination,RFC Destination,cc6dea27
+Read definition,Read definition,1a63856f
+Read metadata from connector,Read metadata from connector,e9883aec
+Read source,Read source,ad455e54
+Read source definition,Read source definition,7ca384bd
+Read source from connector,,8131a481
+Reference Statement,,0953c23f
+Referenced columns,,379d2eaa
+Referenced table,,0ef24716
+References,,69824d3b
+Refresh,Refresh,0e916101
+Refresh all sources,,63b9dd58
+Refresh columns in imported tables,,87694668
+Refresh descriptions in imported tables,,e56ddde7
+Refresh existing source columns,,0f9a2af1
+Refresh new objects only,Refresh new objects only,38677725
+Refresh primary keys in imported tables,,cbad9d24
+Refresh selected group only,Refresh selected group only,24d5f3ea
+Refresh source,Refresh source,68449650
+Refresh source descriptions,,85450237
+Refresh source references,,c218529b
+Refresh structure,,3ba6240d
+Refresh used sources,,1b87e2a9
+Release synchronization lock,Release synchronization lock,6d7e3ac3
+Remove all columns from transformation,,5169e3ed
+Remove duplicates,Remove duplicates,af4adb5e
+Remove filter,Remove filter,23c5cdc6
+Rename,,3064d79a
+Renaming,Renaming,ba6aeb36
+Replace references in transformations due the hash references,Replace references in transformations due the hash references,1edb5a49
+Repository,Repository,13d6ff07
+Repository database template,,a7f5def8
+Repository owner,,f0d16bda
+Reset color,,1c38dedc
+Resulting join,Resulting join,54355723
+Retreive relations,,7bbb4f71
+Retrieve relations,,95846442
+Rights,,2aeb0528
+Roles,,c2533705
+Root surrogate key field,,99006be8
+"Row delimiter (use {CR}, {LF} and {t})",,2832a707
+Rows per batch,,16cab866
+Run object script,,f6d294cd
+Run repository extension scrips,,d2aeeb43
+Run script,Run script,ce2fe1d4
+SAP DeltaQ transfer mode,,cc5f97e3
+SAP description language,,5f157866
+SAT package name,,a460917a
+SAT table name,,340e7378
+SAT transformation name,,98faea02
+SCD 0,SCD 0,05ce7098
+SCD 1,SCD 1,35287060
+SCD 2,SCD 2,dcc25b56
+SCD type,,5ea078b2
+SQL,,a7056a45
+SQL Server Settings,SQL Server Settings,357faff9
+SQL Server path to store databases,,de7a5575
+SQL Server to store repository,,6cd4b9df
+SQL password,,b1acf5d6
+SQL user,,d42e4573
+SQLCMD Variables,,33c911ed
+Satellite of table,,5afe0126
+Save,Save,1509f561
+Save diagram as picture,Save diagram as picture,09d1b65c
+Save password,,e86cf7b8
+Save to cloud,,c8af674b
+Save to file,,396afe74
+Scale,,f102986b
+Schema,Schema,07b091a3
+Schema filter,,8da45b5a
+Schemas,,bdae3cfc
+Schemas for the generated objects,,b96fae94
+Script,Script,102acc10
+Script name,,f480f5a7
+Script type,Script type,88907abd
+Scripts,Scripts,8d0e6b4a
+Search,,49c266ba
+Security,,8f6fb4eb
+Seed,,367ef06b
+Selected defaults,Selected defaults,561a620a
+Selected group,,6831e568
+Selected object,,a2aebff9
+Semantic,Semantic,9c11c99c
+Sequence number,,6dab2d3b
+Server,Server,aef7de28
+Server SQLCMD variable,Server SQLCMD variable,b6bf99f1
+Server name,Server name,21babfed
+Set diagram filter,,37c4709e
+Set environment variable,,0235b4e1
+Set filter,Set filter,02a7ced4
+Short text,Short text,38a11505
+Show diagram,,7cdc94d5
+Show reference diagram,,f550678c
+Show reference diagram (active),Show reference diagram (active),0bb8c45a
+Show reference diagram (all),Show reference diagram (all),9d8d8a87
+Show reference diagram (inactive),Show reference diagram (inactive),ba68baee
+Show thumbnail,Show thumbnail,fcbb5cac
+Slice,,87bd7865
+Snapshot dimension,Snapshot dimension,73f3d72c
+Snapshot name,,b6bd65b1
+Snapshots,,f187f78e
+Source,,0e570ca6
+Source 1,,8f278cda
+Source 2,,e03dd106
+Source Name,Source Name,7363f443
+Source Reference Details,,e5eb6d14
+Source Schema,Source Schema,a116243d
+Source is historicised,,f9d2ae87
+Source table,,ae5571bf
+Sources,,caf85b08
+Special columns,Special columns,9981a75d
+Splitter position,,ccb431be
+Stack trace,Stack trace,1baa6607
+Standard,Standard,ef669154
+Star name,,a2baac05
+Stars,,4e44daee
+Start reference,Start reference,0a6b44fb
+Statement,Statement,6171b2a4
+Statement Multidimensional,,cc8a365e
+Stop with error,Stop with error,74754934
+Stop without error,Stop without error,5313fb96
+Storage account,Storage account,27d7744f
+Store current filter,,eda0a606
+Store filter,Store filter,54bf956e
+Stored procedure type,,8a3dde06
+Sub box height,,76508bfc
+Sub box width,,b3662cbb
+Subselect,Subselect,0c1d48c6
+Support:,,99126e70
+Supports delta,Supports delta,a937e207
+Supports full,Supports full,39bb0b8c
+Surrogate key field,,4f7b59e5
+Sync DWH,Sync DWH,3827a866
+Synchronize DWH,Synchronize DWH,af66df18
+Synchronize new objects only,Synchronize new objects only,af08d4c9
+Synchronize selected group only,Synchronize selected group only,4c8d1470
+Table,Table,16d1c905
+Table 1,,ec9ba494
+Table 2,,f7b6a62f
+Table Definition,Table Definition,83fe6337
+Table JoinHistType,,8c20c05f
+Table Name,,77f37933
+Table Schema,Table Schema,f95cb857
+Table SeqNr,Table SeqNr,7e5265a9
+Table Type,,3b41a2f7
+Table lock,,9387ef3e
+Table names,,7cc8e7f1
+Table page horizontal alignment,,4bba3ba5
+Table page max height,,a89bc810
+Table page max width,,c6a24ed6
+Table page vertical alignment,,b69a198e
+Table__Field,Table__Field,dae321a9
+Tables,Tables,e3fe2a3f
+Tables per package,,546c4de3
+Tabular,,a85fccdb
+Tabular cube,Tabular cube,a2e2ec14
+Target,,978354db
+Target schema,,cf8583c7
+Target table name,Target table name,e7cf23bb
+Technical valid from date field,,20a3e8bc
+Technical valid to date field,,b9566d79
+Template,Template,0575f29d
+Test connection,,5bcf311b
+Test query,Test query,91183e14
+Text qualifier,,d602188d
+Time dimension,Time dimension,ebc9f9f0
+Time-to-ID function,,df8e7bbe
+Timeout (sec),Timeout (sec),5ac8f7c2
+TransType,,0045be4f
+Transfer mode IDoc,Transfer mode IDoc,ff4c1ccb
+Transfer mode tRFC,Transfer mode tRFC,80b6e2a7
+Transfor- mations,,a6b7a5ad
+Transform.,,af8775f6
+Transformation,Transformation,cf2a6337
+Transformation Wizard,,192b8a7b
+Transformation name,,778dd761
+Transformation names,,4978dad1
+Transformation schema,,b3b5ace2
+Transformation statement,,277b0deb
+Truncate statement,,92b44b2a
+Try to get paths,,5f828374
+Type,Type,baaddf70
+Unicode,,f922e0d1
+Unlock,Unlock,4ac709aa
+Unlock all locked objects,Unlock all locked objects,1a3b5754
+Unlock group,,0e2accaf
+Unlock my locked object,Unlock my locked object,02e1c158
+Unlock object,Unlock object,62450c8a
+Update anonymizations,Update anonymizations,2962f5be
+Update friendly names,Update friendly names,e98685da
+Update object groups,Update object groups,c45eb06e
+Update relations,Update relations,f55affb5
+Update statistics,,6230216c
+Upper case,Upper case,7d03572e
+Url,Url,157ce98b
+Use Bulk Insert,,02a981d2
+Use Calendar in facts,,295f835c
+Use HASH JOIN,,3c88f11c
+Use Logging,Use Logging,c9d2ac41
+Use VAULT ID as PK,,d366376d
+Use business key references if possible,Use business key references if possible,c3b61b09
+Use friendly names as column names,,4c6f3111
+Use friendly names in transformations,,18bbb766
+Use hash key references if possible,Use hash key references if possible,b6c7df97
+Use metadata of existing sources,Use metadata of existing sources,4b9c598e
+Use only business key references,Use only business key references,2ff5d8b9
+Use only hash key references,Use only hash key references,27c2627d
+Use the credentials of current user,,fda9f917
+Use the service account,,2c79af3f
+Use transaction,Use transaction,717dbf20
+Used in transformations,,8b23d70e
+User groups,,5743ce18
+Users,Users,6b0cc904
+VIEW,VIEW,28baebc3
+Valid from field,,00e363c1
+Valid to field,,a5fff94f
+ValidFrom existing keys:,,d98e0cd7
+ValidFrom new keys:,,c8dc7992
+ValidTo:,,1b544633
+Variables,,02db55ba
+Version history,,a6df11e7
+Version:,,4c5726ee
+Videos,,c9a96394
+Web:,,bd94a28a
+White Paper AnalyticsCreator (in english),,820de32c
+White paper AnalyticsCreator (in german),,3485d548
+Wikipedia,,d38b38a2
+You can use #ENCRYPTED_STRING# alias instead of plain-text passwords. You can add encrypted string using Options->Encrypted strings,You can use #ENCRYPTED_STRING# alias instead of plain-text passwords. You can add encrypted string using Options->Encrypted strings,1ab6439f
+"You can use following elements in the name templates: _{CONNECTOR_NAME}, {SRC_SCHEMA}, {SRC_NAME}, {SRC_FRIENDLY_NAME}, {NR}","You can use following elements in the name templates: _{CONNECTOR_NAME}, {SRC_SCHEMA}, {SRC_NAME}, {SRC_FRIENDLY_NAME}, {NR}",c0b0b41f
+as column names,,4a983750
+back,back,3c482346
+cancel,cancel,2374d917
+check statement,,a8838f52
+default,default,37a8eec1
+finish,finish,42af43e3
+list of table filters,,750fe813
+next,next,c6c1c9a9
+or do you need consulting for further business intelligence and analytical,,e2e3d2c0
+"requirements, so please contact us:",,6bad1624
+tRFC,tRFC,ea9dc02a
